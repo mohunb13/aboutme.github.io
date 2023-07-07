@@ -1,0 +1,32 @@
+body {
+  font-family: 'Lato', Arial, sans-serif;
+  background-image: url('./pink-star-abstract-background-with-gold-elements.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1, h3 {
+  color: rgb(0, 0, 0);
+  text-align: left;
+}
+
+h2 {
+  color: rgb(0, 0, 0);
+}
+
+p {
+  color: #000000;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #333;
+  margin-bottom: 20px;
+}
+
+img {
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
